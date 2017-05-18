@@ -16,27 +16,27 @@ waponahkikensis,W14,"Pembroke, Wash., ME",3,44.94119,-67.21526,"Lovit 450, 451, 
 waponahkikensis,W15,"Trescott, Wash., ME",3,44.79001,-67.16449,"Lovit 439, 440, 441"
 waponahkikensis,W16,"Robbinston, Wash., ME",3,45.07499,-67.13728,"Lovit 453, 454, 455"
 waponahkikensis,W17,"Lubec, Wash., ME",1,44.85298,-67.08256,Lovit 442
-scopariaME,S1,"T9 SD, Hanc., ME",2,44.62772,-68.1552,"Lovit 482, 483"
-scopariaME,S2,"Steuben, Wash., ME",2,44.51392,-67.96858,"Lovit 484, 485"
-scopariaME,S3,"Milbridge, Wash., ME",3,44.53873,-67.88096,"Lovit 464, 465, 466"
-scopariaME,S4,"Harrington, Wash., ME",3,44.57504,-67.76343,"Lovit 467, 468, 469"
-scopariaME,S5,"Beals, Wash. , ME",3,44.48375,-67.59825,"Lovit 470, 471, 472"
-scopariaME,S6,"Jonesboro, Wash., ME",3,44.64148,-67.54289,"Lovit 477, 478, 479"
-scopariaME,S7,"Machias, Wash., ME",2,44.65263,-67.4735,"Lovit 480, 481"
-scopariaME,S8,"Pembroke, Wash., ME",2,44.94119,-67.21532,"Lovit 473, 474"
-scopariaME,S9,"Trescott, Wash., ME",2,44.79993,-67.1416,"Lovit 475, 476"
-scoparia,S10,"-, Clay, NC",1,35.0307,-83.64846,Rothrock 3316
-scoparia,S11,"-, Macon, NC",1,35.052046,-83.187687,Rothrock 3319
-scoparia,S12,"-, Yancy, NC",1,35.727759,-82.283272,Rothrock 3326
-scoparia,S13,"-, Surry, NC",1,36.50664,-80.856401,Rothrock  3327
-scoparia,S14,"-, Carroll, VA",1,36.665502,-80.697779,Rothrock  3328
-scoparia,S15,"-, Augusta, VA",1,38.00975,-79.052011,Rothrock  3332
-scoparia,S16,"-, Alleghany, VA",1,37.863087,-80.030607,Rothrock  3335
-scoparia,S17,"-, Alleghany, VA",1,37.863087,-80.030607,Rothrock  3336
-scoparia,S18,"-, Jasper, IN",1,41.157473,-86.970325,Rothrock  3355
-scoparia,S19,"-, Yates, NY",1,42.645267,-77.352949,Rothrock  3466
-scoparia,S20,"-, Strafford, NH",1,43.184198,-70.889683,Rothrock  3473
-scopariaME,S21,"-, Hancock, ME",2,44.6275,-68.152025,Rothrock  3489A
+scoparia_ME,S1,"T9 SD, Hanc., ME",2,44.62772,-68.1552,"Lovit 482, 483"
+scoparia_ME,S2,"Steuben, Wash., ME",2,44.51392,-67.96858,"Lovit 484, 485"
+scoparia_ME,S3,"Milbridge, Wash., ME",3,44.53873,-67.88096,"Lovit 464, 465, 466"
+scoparia_ME,S4,"Harrington, Wash., ME",3,44.57504,-67.76343,"Lovit 467, 468, 469"
+scoparia_ME,S5,"Beals, Wash. , ME",3,44.48375,-67.59825,"Lovit 470, 471, 472"
+scoparia_ME,S6,"Jonesboro, Wash., ME",3,44.64148,-67.54289,"Lovit 477, 478, 479"
+scoparia_ME,S7,"Machias, Wash., ME",2,44.65263,-67.4735,"Lovit 480, 481"
+scoparia_ME,S8,"Pembroke, Wash., ME",2,44.94119,-67.21532,"Lovit 473, 474"
+scoparia_ME,S9,"Trescott, Wash., ME",2,44.79993,-67.1416,"Lovit 475, 476"
+scoparia_ME,S10,"-, Hancock, ME",2,44.6275,-68.152025,"Rothrock  3489A, C"
+scoparia,S11,"-, Clay, NC",1,35.0307,-83.64846,Rothrock 3316
+scoparia,S12,"-, Macon, NC",1,35.052046,-83.187687,Rothrock 3319
+scoparia,S13,"-, Yancy, NC",1,35.727759,-82.283272,Rothrock 3326
+scoparia,S14,"-, Surry, NC",1,36.50664,-80.856401,Rothrock  3327
+scoparia,S15,"-, Carroll, VA",1,36.665502,-80.697779,Rothrock  3328
+scoparia,S16,"-, Augusta, VA",1,38.00975,-79.052011,Rothrock  3332
+scoparia,S17,"-, Alleghany, VA",1,37.863087,-80.030607,Rothrock  3335
+scoparia,S18,"-, Alleghany, VA",1,37.863087,-80.030607,Rothrock  3336
+scoparia,S19,"-, Jasper, IN",1,41.157473,-86.970325,Rothrock  3355
+scoparia,S20,"-, Yates, NY",1,42.645267,-77.352949,Rothrock  3466
+scoparia,S21,"-, Strafford, NH",1,43.184198,-70.889683,Rothrock  3473
 scoparia,S22,"-, Centre, PA",1,41.101511,-77.659223,Rothrock  3493
 scoparia,S23,"-, Macoupin, IL",1,39.175594,-89.704181,Rothrock  3548
 scoparia,S24,"-, Tucker, MO",1,38.950573,-91.989983,Rothrock  3555
@@ -45,4 +45,4 @@ scoparia,S26,"-, Cumberland, TE",1,35.957013,-84.987427,Rothrock  3639
 scoparia,S27,"-, Cumberland, TE",1,35.979903,-85.053682,Rothrock  3641
 scoparia,S28,"-, Lee, VA",1,36.839953,-82.969855,Rothrock  3648
 scoparia,S29,"-, Pocahontas, WV",1,38.12751,-79.97412,Rothrock  3661
-tincta,T1,"St. George, Charlotte, NB",344,45.1283,-66.7952,Reznicek sn
+tincta,T1,"St. George, Charlotte, NB",1,45.1283,-66.7952,Reznicek sn
